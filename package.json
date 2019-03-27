@@ -8,8 +8,15 @@
     "lint": "tslint -p .",
     "build": "tsc -p ."
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Leonardo Lana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leolanavo/graphql-alchemist/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leolanavo/graphql-alchemist.git"
+  },
   "devDependencies": {
     "@commitlint/cli": "^7.5.2",
     "@commitlint/config-conventional": "^7.5.0",
