@@ -2,7 +2,7 @@
   "name": "graphql-alchemy",
   "version": "0.1.0",
   "description": "A CLI to generate opinionated GraphQL schema and revolvers",
-  "main": "./lib/src/index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "jest",
     "lint": "tslint -p .",
